@@ -74,7 +74,7 @@ Beyond coding, I am an avid *traveler*, always eager to explore new places, cult
 ## 🌟 Extracurricular Activities  
 📍 *Microsoft Student Chapter (MSC) - MSIT*  
 📅 *November 2024 – Present*  
-- Active *member of the DSA team, participating in **hackathons, workshops, and events*.  
+- Active *member of the DSA team, participating in hackathons, workshops, and events*.  
 - Contributed to the *technical initiatives and community engagement* of the society.  
 
 ---
