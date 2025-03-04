@@ -1,6 +1,6 @@
 
 ## 👩‍💻 About Me  
-I am an Information Technology student at *Maharaja Surajmal Institute of Technology (GGSIPU), New Delhi* (2023–2027) with a strong passion for technology and problem-solving. With a CGPA of *8.77, I constantly strive to enhance my skills in **programming, development, and database management*.  
+I am an Information Technology student at *Maharaja Surajmal Institute of Technology (GGSIPU), New Delhi* (2023–2027) with a strong passion for technology and problem-solving. With a CGPA of *8.77*, I constantly strive to enhance my skills in *programming, development, and database management*.  
 
 Beyond coding, I am an avid *traveler*, always eager to explore new places, cultures, and experiences that inspire my creativity and adaptability.  
 
