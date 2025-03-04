@@ -56,8 +56,8 @@ Beyond coding, I am an avid *traveler*, always eager to explore new places, cult
 ## 🛠 Projects  
 ### 🎵 [Spotify Frontend Clone](https://github.com/Sanji229/Spotify_frontend_clone)  
 🔧 *Tools Used:* HTML5, CSS  
-- A frontend clone of *Spotify, replicating its **UI and interactive elements*.  
-- Features include a *responsive design, **music library section, and **functional music player*.  
+- A frontend clone of *Spotify, replicating its UI and interactive elements*.  
+- Features include a *responsive design, music library section, and functional music player*.  
 
 ### 🧠 [Simon Says Game](https://github.com/Sanji229/Simon-Says-Game)  
 🔧 *Tools Used:* HTML5, CSS, JavaScript  
